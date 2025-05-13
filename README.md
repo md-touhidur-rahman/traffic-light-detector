@@ -1,5 +1,9 @@
 # 🚦 Traffic Light State Detection with CNN (CARLA Dataset)
 
+![Model Accuracy](https://img.shields.io/badge/accuracy-99.22%25-brightgreen)
+![Model Type](https://img.shields.io/badge/model-CNN-blue)
+![Framework](https://img.shields.io/badge/framework-TensorFlow-orange)
+
 This project implements a Convolutional Neural Network (CNN) to detect and classify traffic light states using simulated data from the CARLA simulator.
 
 ## 🔍 Objective
@@ -46,9 +50,6 @@ To simulate real-time perception in autonomous vehicles by classifying traffic l
 - Apply model on real-world traffic footage
 - Integrate with ROS or a live perception pipeline
 - Extend to traffic sign recognition
-![Model Accuracy](https://img.shields.io/badge/accuracy-99.22%25-brightgreen)
-![Model Type](https://img.shields.io/badge/model-CNN-blue)
-![Framework](https://img.shields.io/badge/framework-TensorFlow-orange)
 
 ---
 
