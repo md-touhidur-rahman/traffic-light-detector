@@ -46,6 +46,9 @@ To simulate real-time perception in autonomous vehicles by classifying traffic l
 - Apply model on real-world traffic footage
 - Integrate with ROS or a live perception pipeline
 - Extend to traffic sign recognition
+![Model Accuracy](https://img.shields.io/badge/accuracy-99.22%25-brightgreen)
+![Model Type](https://img.shields.io/badge/model-CNN-blue)
+![Framework](https://img.shields.io/badge/framework-TensorFlow-orange)
 
 ---
 
